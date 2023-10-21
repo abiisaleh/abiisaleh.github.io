@@ -10,7 +10,7 @@ author = "abiisaleh"
 
 saya mendaatkan gelar sarjana IT pada bulan februari 2023 di salah satu universitas di Kota Jayapura. selain dari universitas saya juga belajar melalui _youtube_, pelatihan online gratis seperti _freeCodeCamp_, _Digitalent_, dll.
 
-selain ngoding saya biasa menghabiskan waktu luang dengan bermain main game ringan 🎮, nonton film 🎬, dan baca manga 📖.
+selain ngoding saya biasa menghabiskan waktu luang dengan bermain main game ringan 🎮, nonton film 🎬, dan baca manga 📖
 
 untuk selengkapnya kamu bisa cek di [CV](https://abiisaleh.github.io/bs5-portofolio/assets/CV.pdf) saya.
 Terimakasih sudah mampir 🙏
