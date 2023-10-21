@@ -1,25 +1,16 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "lee.so"
+description = "portofolio muhamad abi saleh"
+date = "2023-10-28"
+aliases = ["about-me", "portofolio"]
+author = "abiisaleh"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+👋 hi.. saya **abi**, seorang _fullstack_ web developer. teknologi yang sering saya gunakan dalam project saya yaitu, _CodeIgniter_, _Laravel_, _Bootstrap_ dan _Tailwind_.
 
-Hugo makes use of a variety of open source projects including:
+saya mendaatkan gelar sarjana IT pada bulan februari 2023 di salah satu universitas di Kota Jayapura. selain dari universitas saya juga belajar melalui _youtube_, pelatihan online gratis seperti _freeCodeCamp_, _Digitalent_, dll.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+selain ngoding saya biasa menghabiskan waktu luang dengan bermain main game ringan 🎮, nonton film 🎬, dan baca manga 📖.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+untuk selengkapnya kamu bisa cek di [CV](https://abiisaleh.github.io/bs5-portofolio/assets/CV.pdf) saya.
+Terimakasih sudah mampir 🙏

@@ -1,10 +1,10 @@
 +++
 title = "Contact"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
+description = "portofolio muhamad abi saleh"
+date = "2023-10-28"
+aliases = ["about-me", "contact"]
 author = "abiisaleh"
 +++
 
-- [github.com/nanxiaobei](https://github.com/nanxiaobei)
-- [lee.so](https://lee.so)
+- [telegram](https://t.me/abiisaleh)
+- [email](mailto:abi.saleh.25@gmail.com)

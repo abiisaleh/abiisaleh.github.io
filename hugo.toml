@@ -1,5 +1,4 @@
 baseURL = "https://hugo-paper.vercel.app/"
-# title = "Hugo Themes"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 paginate = 3
@@ -15,7 +14,7 @@ theme = "paper"
 title = "abiisaleh"
 
 [params]
-  color = 'gray'
+  color = 'linen'
 
   linkedin = 'abiisaleh'
   github = 'abiisaleh'
@@ -24,6 +23,8 @@ title = "abiisaleh"
   avatar = 'https://avatars.githubusercontent.com/u/92934849?v=4'
   name = 'muhamad abi saleh'
   bio = 'web developer 🐱'
+
+  monoDarkIcon = false  
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
