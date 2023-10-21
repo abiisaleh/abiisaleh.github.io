@@ -11,7 +11,6 @@ categories = [
 ]
 series = ["project"]
 aliases = ["project-app"]
-weight = 10
 +++
 
 Smart cafe adalah website sistem rekomendasi cafe mengunakan algoritma SMART. sistem akan memberikan rekomendasi cafe sesuai dengan kriteria yang dipilih, kemudian cafe yang menjadi alternatif tersebut akan di seleksi menggunakan algoritma SMART untuk di cari cafe yang terbaik.
