@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 description = "portofolio muhamad abi saleh"
-date = "2023-10-28"
+date = "2023-10-1"
 aliases = ["about-me", "contact"]
 author = "abiisaleh"
 +++

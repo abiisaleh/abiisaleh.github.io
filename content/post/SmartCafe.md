@@ -1,7 +1,7 @@
 +++
 author = "abiisaleh"
 title = "☕ Smart Cafe"
-date = "2023-10-25"
+date = "2023-10-20"
 description = "Sistem Rekomendasi Cafe menggunakan algoritma SMART"
 tags = [
     "SPK", "SMART"

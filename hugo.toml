@@ -1,5 +1,5 @@
 baseURL = "https://hugo-paper.vercel.app/"
-author = "Steve Francia"
+author = "abiisaleh"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 paginate = 3
 languageCode = "en"
@@ -16,7 +16,6 @@ title = "abiisaleh"
 [params]
   color = 'linen'
 
-  linkedin = 'abiisaleh'
   github = 'abiisaleh'
   instagram = 'abiisaleh'
 
@@ -43,7 +42,7 @@ title = "abiisaleh"
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
-    url = "/contact/"
+    url = "mailto:abi.saleh.25@gmail.com"
     weight = 10
 
 [taxonomies]

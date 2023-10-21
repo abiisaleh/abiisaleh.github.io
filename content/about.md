@@ -1,14 +1,14 @@
 +++
 title = "About"
 description = "portofolio muhamad abi saleh"
-date = "2023-10-28"
+date = "2023-10-1"
 aliases = ["about-me", "portofolio"]
 author = "abiisaleh"
 +++
 
-👋 hi.. saya **abi**, seorang _fullstack_ web developer. teknologi yang sering saya gunakan dalam project saya yaitu, _CodeIgniter_, _Laravel_, _Bootstrap_ dan _Tailwind_.
+👋 hi.. saya **abi**, seorang _fullstack web developer_. teknologi yang sering saya gunakan dalam project saya yaitu, _CodeIgniter_, _Laravel_, _Bootstrap_ dan _Tailwind_.
 
-saya mendaatkan gelar sarjana IT pada bulan februari 2023 di salah satu universitas di Kota Jayapura. selain dari universitas saya juga belajar melalui _youtube_, pelatihan online gratis seperti _freeCodeCamp_, _Digitalent_, dll.
+saya mendapatkan gelar sarjana IT pada bulan februari 2023 di salah satu universitas di Kota Jayapura. selain dari universitas saya juga belajar melalui _youtube_, pelatihan online gratis seperti _freeCodeCamp_, _Digitalent_, dll.
 
 selain ngoding saya biasa menghabiskan waktu luang dengan bermain main game ringan 🎮, nonton film 🎬, dan baca manga 📖
 
