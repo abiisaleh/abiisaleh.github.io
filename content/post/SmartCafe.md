@@ -17,11 +17,6 @@ Smart cafe adalah website sistem rekomendasi cafe mengunakan algoritma SMART. si
 
 dalam sistem ini terdapat 2 user yang megelola website yaitu admin super dan admin cafe. admin super dapat menambahkan dan menilai data cafe, melihat data user, dan mengatur kriteria yang digunakan untuk perhitungan rekomendasi. admin cafe dapat menanmbahkan data cafe dan menambahkan menu.
 
-[Demo](https://smartcafe.abiisaleh.xyz)
+![homepage smartcafe](https://i.ibb.co/kKRwpwx/Web-capture-22-10-2023-144922-smartcafe-abiisaleh-xyz.jpg "Homepage smartcafe")
 
-login
-
-| email          | password | role        |
-| -------------- | -------- | ----------- |
-| admin@demo.com | demo1234 | admin super |
-| cafe@demo.com  | demo1234 | admin cafe  |
+[Demo](https://smartcafe.abiisaleh.xyz) | [Source Code](https://github.com/abiisaleh/laravel-marten)

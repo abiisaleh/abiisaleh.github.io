@@ -18,10 +18,6 @@ iSurat adalah website pengarsipan surat masuk dan surat keluar.
 
 fitur dalam aplikasi ini adalah dapat mengelola data surat masuk, disposisi surat masuk, mengelola bidang dan mengelola surat keluar.
 
-[Demo](https://isurat.com)
+![homepage isurat](https://i.ibb.co/fM2VwLR/Web-capture-22-10-2023-145528-isurat-com.jpg "homepage isurat")
 
-login
-
-| email          | password | role  |
-| -------------- | -------- | ----- |
-| admin@demo.com | demo1234 | admin |
+[Demo](https://isurat.com) | [Source Code](https://github.com/abiisaleh/laravel-hans)
