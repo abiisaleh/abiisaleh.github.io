@@ -69,7 +69,7 @@ jobs:
           server: 154.41.240.56
           username: u379276371.hugo
           password: ${{ secrets.ftp_password }}
-          local-dir: ./public
+          local-dir: ./public/
 
   # Deployment job
   deploy:
