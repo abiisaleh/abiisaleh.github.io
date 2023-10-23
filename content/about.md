@@ -12,5 +12,5 @@ saya mendapatkan gelar sarjana IT 👨‍🎓 pada bulan februari 2023 di salah 
 
 selain ngoding saya biasa menghabiskan waktu luang dengan bermain main game ringan 🎮, nonton film 🎬, dan baca manga 📖
 
-untuk selengkapnya kamu bisa cek di [CV](https://abiisaleh.github.io/bs5-portofolio/assets/CV.pdf) saya 📃.
+untuk selengkapnya kamu bisa cek di [CV](https://abiisaleh.github.io/bs5-portofolio/assets/CV.pdf) saya.
 Terimakasih sudah mampir 🙏

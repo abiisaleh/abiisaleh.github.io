@@ -23,7 +23,7 @@ title = "abiisaleh"
   name = 'muhamad abi saleh'
   bio = 'web developer 🐱'
 
-  monoDarkIcon = false  
+  monoDarkIcon = false 
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
