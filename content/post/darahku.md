@@ -25,7 +25,7 @@ fitur dalam aplikasi ini adalah
 - Mengelola data pengguna darah
 - Mengelola jadwal kegiatan
 - Goolge Maps API untuk lokasi kegiatan
-- Mengirim pesan kepada admin pesan
+- Mengirim pesan kepada admin
 
 ![homepage darahku](https://i.ibb.co/FH8zSWy/Web-capture-26-10-2023-142631-darahku-abiisaleh-xyz.jpg "homepage darahku")
 
