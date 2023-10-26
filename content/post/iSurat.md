@@ -11,7 +11,6 @@ categories = [
 ]
 series = ["Sistem-Informasi"]
 aliases = ["SI"]
-weight = 10
 +++
 
 iSurat adalah website pengarsipan surat masuk dan surat keluar. dengan adanya sistem pengarsipan secara online dapat memudahkan dalam mengarsipkan surat dan mencari surat.
