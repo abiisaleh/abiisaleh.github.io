@@ -13,10 +13,6 @@ ignoreErrors = ["error-remote-getjson"]
 theme = "paper"
 title = "abiisaleh"
 
-[params.meta]
-
-
-
 [params]
   color = 'linen'
 

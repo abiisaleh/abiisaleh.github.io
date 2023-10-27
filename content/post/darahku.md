@@ -27,8 +27,8 @@ fitur dalam aplikasi ini adalah
 - Goolge Maps API untuk lokasi kegiatan
 - Mengirim pesan kepada admin
 
-![homepage darahku](https://i.ibb.co/FH8zSWy/Web-capture-26-10-2023-142631-darahku-abiisaleh-xyz.jpg "homepage darahku")
+![homepage darahku](uploads/images/darahku-hompage.jpeg "homepage darahku")
 
-![admin panel darahku](https://i.ibb.co/DrjNpHD/Web-capture-26-10-2023-142654-darahku-abiisaleh-xyz.jpg "admin panel darahku")
+![admin panel darahku](uploads/images/darahku-panel.jpeg "admin panel darahku")
 
 [Demo](https://darahku.abiisaleh.xyz) | [Source Code](https://github.com/abiisaleh/laravel-yunita)

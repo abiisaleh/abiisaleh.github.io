@@ -30,6 +30,6 @@ wali kelas
 
 ![homepage Monitoring Siswa](https://i.ibb.co/2NxvWs7/Web-capture-23-10-2023-95754-localhost.jpg "Homepage Monitoring Siswa")
 
-![panel Monitoring Siswa](https://i.ibb.co/m96npkJ/Web-capture-26-10-2023-165557-localhost.jpg "panel Monitoring Siswa")
+![panel Monitoring Siswa](uploads/images/simon-panel.jpeg "panel Monitoring Siswa")
 
 Demo | [Source Code](https://github.com/abiisaleh/lewi)
