@@ -27,8 +27,8 @@ admin cafe
 - menanmbahkan data cafe
 - menambahkan menu
 
-![homepage smartcafe](uploads/images/smatcafe-hompage.jpeg "Homepage smartcafe")
+![homepage smartcafe](/uploads/images/smatcafe-hompage.jpeg "Homepage smartcafe")
 
-![panel smartcafe](uploads/images/smartcafe-panel.jpeg "panel smartcafe")
+![panel smartcafe](/uploads/images/smartcafe-panel.jpeg "panel smartcafe")
 
 [Demo](https://smartcafe.abiisaleh.xyz) | [Source Code](https://github.com/abiisaleh/laravel-marten)
