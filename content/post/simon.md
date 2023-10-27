@@ -28,7 +28,7 @@ wali kelas
 - melakukan absensi.
 - menginput pelanggaran siswa.
 
-![homepage Monitoring Siswa](https://i.ibb.co/2NxvWs7/Web-capture-23-10-2023-95754-localhost.jpg "Homepage Monitoring Siswa")
+![homepage Monitoring Siswa](/uploads/images/simon-homepage.jpeg "Homepage Monitoring Siswa")
 
 ![panel Monitoring Siswa](/uploads/images/simon-panel.jpeg "panel Monitoring Siswa")
 
