@@ -27,7 +27,7 @@ fitur dalam aplikasi ini adalah
 - Goolge Maps API untuk lokasi kegiatan
 - Mengirim pesan kepada admin
 
-![homepage darahku](/uploads/images/darahku-hompage.jpeg "homepage darahku")
+![homepage darahku](/uploads/images/darahku-homepage.jpeg "homepage darahku")
 
 ![admin panel darahku](/uploads/images/darahku-panel.jpeg "admin panel darahku")
 
