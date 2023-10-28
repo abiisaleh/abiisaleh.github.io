@@ -29,6 +29,6 @@ fitur dalam aplikasi ini adalah
 
 ![homepage darahku](/uploads/images/darahku-homepage.jpeg "homepage darahku")
 
-![admin panel darahku](/uploads/images/darahku-panel.jpeg "admin panel darahku")
+![admin panel darahku](/uploads/images/darahku-panel-2.jpeg "admin panel darahku")
 
 [Demo](https://darahku.abiisaleh.xyz) | [Source Code](https://github.com/abiisaleh/laravel-yunita)
