@@ -35,15 +35,13 @@
   {{ if site.Params.name }}
   <div>
     <h1 class="mb-2 mt-3 text-[1.6rem] font-bold">{{ site.Params.name }}</h1>
-    <div class="break-words">
+    <div class="break-words" id="bio">
       {{ site.Params.bio | default (print `A personal blog by `
       site.Params.name) }}
       <script>
         NekoType = "socks";
 
-        const bio = document
-          .getElementsByClassName("break-words")
-          .getBoundingClientRect();
+        const bio = document.getElementById("bio").getBoundingClientRect();
         window.startNekoX = bio.left + 115;
         window.startNekoY = bio.top;
       </script>
