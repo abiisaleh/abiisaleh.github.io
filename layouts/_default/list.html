@@ -41,7 +41,9 @@
       <script>
         NekoType = "socks";
 
-        const bio = document.getElementsByClassName("break-words");
+        const bio = document
+          .getElementsByClassName("break-words")
+          .getBoundClientRect();
         window.startNekoX = bio.left + 115;
         window.startNekoY = bio.top;
       </script>
