@@ -9,6 +9,7 @@ enableInlineShortcodes = true
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
 
+enableEmoji = true
 # ------------------------------
 theme = "paper"
 title = "abiisaleh"
@@ -22,7 +23,7 @@ title = "abiisaleh"
   avatar = 'https://avatars.githubusercontent.com/u/92934849?v=4'
   name = 'muhamad abi saleh'
   bio = 'web developer'
-  description = 'website portofolio muhamad abi saleh - abiisaleh'
+  description = 'website portofolio muhamad abi saleh as abiisaleh'
 
   monoDarkIcon = false 
 # ------------------------------
