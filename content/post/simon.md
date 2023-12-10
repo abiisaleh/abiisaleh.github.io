@@ -4,7 +4,7 @@ title = "🏫 Monitoring Siswa"
 date = "2023-06-20"
 description = "Sistem Monitoring Siswa Berprestasi dan Rekomendasi Beasiswa"
 tags = [
-    "si", "monitoring"
+    "codeigniter", "bootstrap"
 ]
 categories = [
     "SI",
