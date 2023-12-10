@@ -11,7 +11,6 @@ categories = [
 ]
 series = ["Sistem-Informasi"]
 aliases = ["SI"]
-weight = 10
 +++
 
 Darahku adalah website informasi donor darah. dengan adanya website ini diharapkan dapat membantu masyarakat dalam mendapatkan informasi donor darah dan membantu pihak penyelenggara donor darah dalam medata pendonor dan memberikan informasi yang lebih efisien.
