@@ -4,7 +4,7 @@ title = "🎬 Filmku"
 date = "2022-06-20"
 description = "Website nonton film dan tv series"
 tags = [
-    "codeingiter",
+    "codeigniter",
     "bootstrap",
 ]
 categories = [
