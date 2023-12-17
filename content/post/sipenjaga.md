@@ -1,7 +1,7 @@
 +++
 author = "abiisaleh"
 title = "💂‍♂️ Si penjaga"
-date = "2023-10-26"
+date = "2024-10-26"
 description = "Sistem Pengarsipan Surat"
 tags = [
     "si", "surat"
