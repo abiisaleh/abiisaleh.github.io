@@ -4,7 +4,8 @@ title = "🩸 Darahku"
 date = "2023-10-26"
 description = "Sistem Informasi Donor Darah"
 tags = [
-    "si"
+    "laravel",
+    "tailwindcss"
 ]
 categories = [
     "Sistem Informasi",

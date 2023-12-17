@@ -4,7 +4,7 @@ title = "💂‍♂️ Si penjaga"
 date = "2024-10-26"
 description = "Sistem Pengarsipan Surat"
 tags = [
-    "si", "surat"
+    "laravel", "tailwind"
 ]
 categories = [
     "Sistem Informasi",

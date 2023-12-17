@@ -4,7 +4,8 @@ title = "🛠 iService"
 date = "2023-12-10"
 description = "Sistem Informasi Jasa Service Handphone"
 tags = [
-    "si"
+    "laravel",
+    "tailwindcss",
 ]
 categories = [
     "Sistem Informasi",

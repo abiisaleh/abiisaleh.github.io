@@ -4,7 +4,7 @@ title = "✉ iSurat"
 date = "2023-10-12"
 description = "Sistem Pengarsipan Surat"
 tags = [
-    "si", "surat"
+    "laravel", "tailwindcss"
 ]
 categories = [
     "Sistem Informasi",
