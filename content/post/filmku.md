@@ -18,4 +18,4 @@ Filmku adalah website nonton film dan series yang terhubung dengan TMDB untuk da
 
 ![homepage Filmku](/uploads/images/filmku-homepage.jpeg "Homepage Filmku")
 
-Demo | Source Code
+Demo | [Source Code](https://github.com/abiisaleh/ci4-filmku)
