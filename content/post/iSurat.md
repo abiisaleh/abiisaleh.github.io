@@ -22,6 +22,6 @@ fitur dalam aplikasi ini adalah
 - mengelola bidang
 - mengelola surat keluar
 
-![homepage isurat](/uploads/images/isurat-panel.jpeg "homepage isurat")
+![homepage isurat](isurat-panel.jpeg "homepage isurat")
 
 [Demo](https://isurat.com) | [Source Code](https://github.com/abiisaleh/laravel-hans)

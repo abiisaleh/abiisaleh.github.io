@@ -16,6 +16,6 @@ aliases = ["project-app"]
 
 Filmku adalah website nonton film dan series yang terhubung dengan TMDB untuk databasenya. sistem ini masih dalam tahap pengembangan untuk menyediakan link nonton film.
 
-![homepage Filmku](/uploads/images/filmku-homepage.jpeg "Homepage Filmku")
+![homepage Filmku](filmku-homepage.jpeg "Homepage Filmku")
 
 Demo | [Source Code](https://github.com/abiisaleh/ci4-filmku)

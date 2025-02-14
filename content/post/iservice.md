@@ -28,12 +28,12 @@ fitur dalam aplikasi ini adalah
 - Mencetak laporan
 - dll
 
-![homepage iservice](/uploads/images/iservice-homepage.jpeg "homepage iservice")
+![homepage iservice](iservice-homepage.jpeg "homepage iservice")
 
-![user menu iservice](/uploads/images/iservice-user.jpeg "user menu iservice")
+![user menu iservice](iservice-user.jpeg "user menu iservice")
 
-![admin panel iservice](/uploads/images/iservice-panel.jpeg "admin panel iservice")
+![admin panel iservice](iservice-panel.jpeg "admin panel iservice")
 
-![admin table iservice](/uploads/images/iservice-table.jpeg "admin table iservice")
+![admin table iservice](iservice-table.jpeg "admin table iservice")
 
 [Demo](https://iservice.abiisaleh.xyz) | [Source Code](https://github.com/abiisaleh/laravel-yudha)

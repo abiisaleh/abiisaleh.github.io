@@ -28,8 +28,8 @@ wali kelas
 - melakukan absensi.
 - menginput pelanggaran siswa.
 
-![homepage Monitoring Siswa](/uploads/images/simon-homepage.jpeg "Homepage Monitoring Siswa")
+![homepage Monitoring Siswa](simon-homepage.jpeg "Homepage Monitoring Siswa")
 
-![panel Monitoring Siswa](/uploads/images/simon-panel.jpeg "panel Monitoring Siswa")
+![panel Monitoring Siswa](simon-panel.jpeg "panel Monitoring Siswa")
 
 Demo | [Source Code](https://github.com/abiisaleh/lewi)
