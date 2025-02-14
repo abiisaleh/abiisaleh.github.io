@@ -2,8 +2,8 @@ baseURL = "https://abiisaleh.github.io/hugo-abiisaleh"
 author = "abiisaleh"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 paginate = 3
-languageCode = "id"
-DefaultContentLanguage = "id"
+languageCode = "en"
+DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
