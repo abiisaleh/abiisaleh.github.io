@@ -12,12 +12,9 @@
 {{ end }}
 
 <!-- Articles -->
-{{ if .IsHome }}
-  {{ $paginator := .Paginate 2 }}  {{ else }}
-  {{ $paginator := .Paginate $pages }}  {{ end }}
-
-{{ range $index, $page := $paginator.Pages
-}}<!---->
+{{ $paginator := .Paginate $pages}} {{ range $index, $page := $paginator.Pages
+}}
+<!---->
 
 <!-- avatar -->
 {{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) }}<!---->
