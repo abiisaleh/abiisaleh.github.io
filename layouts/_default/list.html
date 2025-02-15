@@ -13,8 +13,8 @@
 
 <!-- Articles -->
 {{ if .IsHome }}
-  {{ $paginator := .Paginate $pages }}  {{ else }}
-  {{ $paginator := .Paginate $pages 4 }}  {{ end }}
+  {{ $paginator := .Paginate 2 }}  {{ else }}
+  {{ $paginator := .Paginate $pages }}  {{ end }}
 
 {{ range $index, $page := $paginator.Pages
 }}<!---->
