@@ -12,7 +12,7 @@ ignoreErrors = ["error-remote-getjson"]
 enableEmoji = true
 # ------------------------------
 theme = "paper"
-title = "abiisaleh"
+title = "abi"
 
 [params]
   color = 'linen'
