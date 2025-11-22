@@ -11,6 +11,7 @@ categories = [
 ]
 series = ["Sistem-Informasi"]
 aliases = ["SI"]
+draft = true
 +++
 
 Si penjaga adalah website pengarsipan surat. dengan adanya sistem pengarsipan secara online dapat memudahkan dalam mengarsipkan surat dan mencari surat.
