@@ -113,5 +113,9 @@
   <!---->
   {{ end }}
 
-  <script src="https://cdn.jsdelivr.net/gh/nextapps-de/snowflake@master/snowflake.min.js"></script>
+<!-- Snow animation: Only active in December -->
+{{ if eq (now.Format "01") "12" }}
+<script src="https://cdn.jsdelivr.net/gh/nextapps-de/snowflake@master/snowflake.min.js"></script>
+{{ end }}
+
 </head>
